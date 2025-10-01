@@ -4,7 +4,7 @@
 This project provides a **comprehensive Power BI dashboard** analyzing **Adidas sales data in the United States (2020–2021)**.  
 It demonstrates Power BI skills by transforming a raw dataset into an **interactive, insight-driven dashboard**.  
 
-![Sales Dashboard]()
+![Sales Dashboard](https://github.com/robingodinho/Adidas_Sales_US_Market_PowerBI/blob/main/PowerBI_dashboard.png)
 
 Key outcomes include:
 - **$900M Total Sales**  
