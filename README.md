@@ -129,6 +129,5 @@ This project highlights the ability to:
 
 ## 📬 Contact
 **Author:** Robin Godinho  
-🔗 [LinkedIn](#) | 📧 [Email](#)  
 
 ---
