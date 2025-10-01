@@ -119,6 +119,7 @@ The dashboard includes **five main analyses**:
 
 ## 📷 Dashboard Preview
 **East Coast Region (Northeast & Southeast):**
+
 - **Total Sales:** This combined region had the highest total sales at $349M.
 - **Monthly Trend:** Sales were relatively stable throughout the year, staying within the $20M to $34M range. There were notable peaks in July ($34M) and December ($39M), suggesting strong summer and holiday season sales.
 
@@ -131,12 +132,14 @@ The dashboard includes **five main analyses**:
 ![West_Coast](https://github.com/robingodinho/Adidas_Sales_US_Market_PowerBI/blob/main/West.png)
 
 **Midwest Region:**
+
 -**Total Sales:** The Midwest region had one of the lowest total sales at $136M.
 -**Monthly Trend:** Sales peaked in July ($16.9M) and December ($16.8M), with a significant dip in April ($5.1M) and September ($6.7M). This pattern is similar to the East Coast but with much lower overall volume.
 
 ![Midwest](https://github.com/robingodinho/Adidas_Sales_US_Market_PowerBI/blob/main/Midwest.png)
 
 **South Region:**
+
 -**Total Sales:** The South region had the lowest sales overall at $92M.
 -**Monthly Trend:** The region's sales were extremely volatile, with a clear and distinct peak in August ($26M) and very low sales in January, February, October, and November ($1-3M). This shows a strong concentration of sales in a single month.
 
