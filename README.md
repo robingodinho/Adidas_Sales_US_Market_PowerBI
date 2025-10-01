@@ -2,7 +2,7 @@
 
 ## 📝 Executive Summary
 This project provides a **comprehensive Power BI dashboard** analyzing **Adidas sales data in the United States (2020–2021)**.  
-It demonstrates beginner-to-intermediate Power BI skills by transforming a raw dataset into an **interactive, insight-driven dashboard**.  
+It demonstrates Power BI skills by transforming a raw dataset into an **interactive, insight-driven dashboard**.  
 
 ![Sales Dashboard]()
 
