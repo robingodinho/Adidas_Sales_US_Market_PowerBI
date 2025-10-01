@@ -1,8 +1,12 @@
 # 📊 Adidas Sales Analysis (Power BI Dashboard)
 
 ## 📝 Executive Summary
-This project provides a **comprehensive Power BI dashboard** analyzing **Adidas sales data in the United States (2020–2021)**.  
-It demonstrates Power BI skills by transforming a raw dataset into an **interactive, insight-driven dashboard**.  
+This project showcases a **Power BI dashboard** that analyzes **Adidas sales data in the United States (2020–2021)**.  
+It highlights core data analytics and visualization skills by turning a structured dataset into a fully **interactive, business-focused dashboard**.  
+
+The analysis uncovers key performance drivers across **time, geography, products, and retailers**, offering actionable insights into revenue, profitability, and market trends. 
+
+Designed for beginner-to-intermediate Power BI users, the project demonstrates the end-to-end process of **data modeling, KPI tracking, and dashboard design**, resulting in a portfolio-ready deliverable that empowers strategic decision-making.
 
 ![Sales Dashboard](https://github.com/robingodinho/Adidas_Sales_US_Market_PowerBI/blob/main/PowerBI_dashboard.png)
 
