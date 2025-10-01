@@ -128,7 +128,7 @@ The dashboard includes **five main analyses**:
 - **Total Sales:** The West region had the 2nd highest total sales at $220M.
 - **Monthly Trend:** Sales show a peak in July ($31M), followed by a steep decline to a low point in November ($4M). This could indicate a significant seasonality, with strong summer performance and a very weak late-fall period.
 
-![West_Coast}(https://github.com/robingodinho/Adidas_Sales_US_Market_PowerBI/blob/main/West.png)
+![West_Coast](https://github.com/robingodinho/Adidas_Sales_US_Market_PowerBI/blob/main/West.png)
 
 **Midwest Region:**
 -**Total Sales:** The Midwest region had one of the lowest total sales at $136M.
